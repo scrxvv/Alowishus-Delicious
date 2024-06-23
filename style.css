@@ -248,7 +248,6 @@ header {
     display: flex;
 }
 
-.uh-img {}
 
 .explore {
     padding-top: 140px;
@@ -944,6 +943,7 @@ header {
     }
     .block-first-story{
         height: 500px;
+        width: 390px;
 
     }
     .block-description{
